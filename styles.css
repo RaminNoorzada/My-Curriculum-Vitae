@@ -49,6 +49,7 @@ body {
     font-size: 18px;
     text-decoration: none;
     margin: 10px;
+    text-shadow: 5 5 black;
   }
   
   a:hover {
